@@ -1,21 +1,28 @@
 # 🏫 UniHub
 
-프로그래머스 4기 5회차 **GPT야 해줘 팀**의 백엔드 프로젝트입니다.
+**UniHub**는 대학교 학생과 교직원을 위한 통합 서비스 플랫폼입니다.  
+수강 신청, 시간표 관리, 투표, 공지사항, 마이페이지 등 대학 생활에 필요한 다양한 기능을 통합하여 제공합니다.  
+실제 사용자 시나리오 기반으로 설계되어, 대규모 사용자 트래픽을 고려한 구조와 보안 인증, 실시간 알림 등 실무 수준의 기능을 구현하였습니다.
+
+> 📌 본 저장소는 **포트폴리오용으로 리팩토링한 개인 저장소**입니다.  
+> GitHub Actions 자동 배포 설정은 비활성화되어 있으며, 원래는 main 브랜치 push 시 AWS로 자동 배포되도록 구성되었습니다.
+
+---
 
 ### 👥 Member
 
-|                **서준식**                 |                   **옥정현**                   |                   **정성철**                   |                 **강을찬**                  |                 **박주원**                  |
-| :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
-| <img src="https://github.com/sojunsik.png" width="200"> | <img src="https://github.com/okjunghyeon.png" width="200"> | <img src="https://github.com/jsc5023.png" width="200"> | <img src="https://github.com/thegreatkang.png" width="200"> | <img src="https://github.com/SalinatedCoffee.png" width="200"> |
-|                 **PO**                 |                     **BE-L**                     |                     **BE**                     |                   **BE**                    |                   **BE**                    |
-|   [GitHub](https://github.com/sojunsik)    |   [GitHub](https://github.com/okjunghyeon)    |   [GitHub](https://github.com/jsc5023)    |   [GitHub](https://github.com/thegreatkang)    |   [GitHub](https://github.com/SalinatedCoffee)    |
-
+| **서준식** | **옥정현** | **정성철** | **강을찬** | **박주원** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://github.com/sojunsik.png" width="100"> | <img src="https://github.com/okjunghyeon.png" width="100"> | <img src="https://github.com/jsc5023.png" width="100"> | <img src="https://github.com/thegreatkang.png" width="100"> | <img src="https://github.com/SalinatedCoffee.png" width="100"> |
+| PO | BE-L | BE | BE | BE |
+| [GitHub](https://github.com/sojunsik) | [GitHub](https://github.com/okjunghyeon) | [GitHub](https://github.com/jsc5023) | [GitHub](https://github.com/thegreatkang) | [GitHub](https://github.com/SalinatedCoffee) |
 
 ---
 
 ### 📌 1. 프로젝트명
 **UniHub — 대학교 통합 관리 서비스**
 
+...
 
 ### 📚 2. 프로젝트 소개
 > **UniHub**는 분산된 대학 생활 서비스를 하나의 통합 플랫폼에서 관리할 수 있도록 지원합니다.  
@@ -401,10 +408,14 @@
         X4 -- 오류 --> X6
       end
     end
+</details>
 
-## 참조사항
+---
 
-본래 해당 프로젝트는 GitHub Actions를 통해 배포까지 자동화되었으나,
-현재 보고 계신 레포지토리는 개인 포트폴리오 용도로 복사된 저장소입니다.
-따라서 CI/CD 설정은 의도적으로 꺼둔 상태이며, 원래는 main 브랜치 push 시 자동 배포되도록 구성되어 있었습니다.
+## 📚 참고 및 기여
 
+- 본 프로젝트는 5인 팀으로 설계·개발된 대학교 통합 플랫폼 서비스입니다.
+- GitHub Actions + AWS ECS 기반으로 배포되었습니다.
+- 포트폴리오 목적상 현재는 일부 기능이 비활성화되어 있으며, 상세한 API 명세 및 기획서는 상단 링크 참고 바랍니다.
+
+---
