@@ -11,7 +11,7 @@
 
 ### 👥 Member
 
-| **서준식** | **옥정현** | **정성철** | **강을찬** | **박주원** |
+| **서준식** | **옥정현** | **정성철** | **** | **박주원** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | <img src="https://github.com/sojunsik.png" width="100"> | <img src="https://github.com/okjunghyeon.png" width="100"> | <img src="https://github.com/jsc5023.png" width="100"> | <img src="https://github.com/thegreatkang.png" width="100"> | <img src="https://github.com/SalinatedCoffee.png" width="100"> |
 | PO | BE-L | BE | BE | BE |
